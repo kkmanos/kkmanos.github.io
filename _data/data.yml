@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: cs-bio.pdf
+    pdf: https://kkmanos.github.io/assets/bio.pdf
 
     languages:
       - idiom: Greek
