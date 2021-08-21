@@ -1,0 +1,119 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Emmanouil Koukoularis
+    tagline:
+    avatar: myimage.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: koukoularisman@gmail.com
+    phone:
+    website: 
+    linkedin:
+    github: kkmanos
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: cs-bio.pdf
+
+    languages:
+      - idiom: Greek
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    # interests:
+    #   - item: Cyber security
+    #     link:
+
+    #   - item: Snowboarding
+    #     link:
+
+    #   - item: Cooking
+    #     link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      As an undergraduate at the University of Athens, I have spent most of my 
+      time in assignments from the University, some of them are listed in the 
+      "PROJECTS" section. 
+education:
+    - degree: Proficiency in English
+      university: University of Michigan
+      time:
+      details:
+    - degree: Undergraduate at Dept. of Informatics & Telecommunications
+      university: National & Kapodistrian University of Athens
+      time: 2017-2021
+      details:
+experiences:
+    - role: None
+    #   time: 2015 - Present
+    #   company: Startup Hubs, San Francisco
+    #   details: 
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Mini java Compiler (in Java)
+        link: "https://github.com/kkmanos/compiler-projects"
+        tagline: "A compiler implementation for a subset of the original Java Language. (Lexical Analysis, Parser, Semantic Analysis, Code generation with LLVM)"
+
+      - title: Full-stack website (On Beta stage) (Private)
+        link:
+        tagline: "A full-stack social media platform for professionals, developed 
+        using the Angular framework for the frontend side, and a Springboot REST API for the backend"
+      
+      - title: Systems programming assignments (written in C language)
+        link: "https://github.com/kkmanos/systems-programming-assignments"
+        tagline: "Each project had a deadling of 3-4 weeks. The main tasks of these assignments make deep usage
+          of forking multiple processes, establishing communication between them with a limited buffer through
+          named-pipes (syspro02 assignment) or tcp sockets (syspro03 assignment). 
+          Syspro03 assignment also features multi-threading."
+
+
+# publications:
+#     title: Publications
+#     intro:
+#     papers:
+      # - title: Mini java Compiler (in Java)
+      #   link: "https://github.com/kkmanos/compiler-projects"
+      #   authors: Koukoularis Emmanouil
+      #   # conference: Addison-Wesley, 1968
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C / C++ / Systems Programming
+        level: 93%
+      
+      - name: Python / Bash
+        level: 95%
+
+      - name: Javascript / HTML / CSS / Angular Framework
+        level: 80%
+
+      - name: Java / Springboot REST API / Flask
+        level: 95%
+
+      - name: Git / Docker
+        level: 85%
+
