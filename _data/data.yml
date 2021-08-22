@@ -82,7 +82,7 @@ projects:
       
       - title: Systems programming assignments (written in C language)
         link: "https://github.com/kkmanos/systems-programming-assignments"
-        tagline: "Each project had a deadling of 3-4 weeks. The main tasks of these assignments make deep usage
+        tagline: "Each project had a deadline of 3-4 weeks. The main tasks of these assignments make deep usage
           of forking multiple processes, establishing communication between them with a limited buffer through
           named-pipes (syspro02 assignment) or tcp sockets (syspro03 assignment). 
           Syspro03 assignment also features multi-threading."
