@@ -108,8 +108,8 @@ skills:
       - name: Python / Bash
         level: 90%
 
-      - name: Javascript / HTML / CSS / Angular Framework
-        level: 80%
+      - name: Javascript / HTML / CSS / Angular Framework / PHP
+        level: 75%
 
       - name: Java / Springboot REST API / Flask
         level: 95%
